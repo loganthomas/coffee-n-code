@@ -92,7 +92,7 @@ def head(filename):
 #                 print(line.strip())
 #             # print(i, line.strip()) if show_n else print(line.strip())
 
-
+# caffeinated closing
 # def preview(filename, n=10, show_n=False, from_end=False):
 #     """
 #     Print the first n_lines of a file.
